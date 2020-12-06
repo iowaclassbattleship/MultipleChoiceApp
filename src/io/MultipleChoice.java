@@ -1,7 +1,7 @@
 package io;
 
-import models.AnswerModel;
-import models.MultipleChoiceModel;
+import io.models.AnswerModel;
+import io.models.MultipleChoiceModel;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,0 +1,220 @@
+Welche Aussagen sind korrekt?
++Das zentrale Nervensystem bestet aus Gehirn und Rückenmark.
++Unter peripheralem Nervensystem werden alle Teile ausserhalb von Gehirn und Rückenmark zusammengefasst.
++Abfolge bei der Info-Verarbeitung: Reiz auf Sensor > sensorischer Input > Integration im Gehirn > motorischer Output > Effektor.
++Nervengewebe besteht aus Neuronen und Gliazellen.
+Gliazellen leiten Erregung, Neurone haben Stützfunktion und isolieren Gliazellen.
+
+Welche Aussagen über Neurone sind korrekt?
+Im menschlichen Gehirn hat es mehrere tausend Neurone.
++Sie sind die eigenständige Grundeinheit des Nervensystems.
++Bau: Perikaryon + Dendriten + Axon (Neurit)
++Telodendron nennt man das am Ende verzweigte Axon.
+Axon nehmen Info auf, Dendriten leiten Info an nachfolgende Zellen.
++Die Markscheide/Myelinschicht isoliert das Axon.
+
+Welche Aussagen sind korrekt?
++Die zwischen 2 Schwannzellen freiliegenden Axonabschnitte nennt man Ranvier Schnürring.
+Bipolare Neurone besitzen 2 Axone.
+Multipolare Neurone haben einen Dendriten ud viele Neuriten.
++Eine Nervenfaser wird aus Axon und Gliahülle gebildet.
+Markhaltige Nervenfasern sind myelin-arm.
+
+Welche Aussagen sind korrekt?
+Afferente Nervenfasern leiten Infos vom Gehirn in die Peripherie.
++Efferente Nervenfasern leiten Info vom ZNS in die Peripherie.
++Nerven bestehen aus Nervenfaserbündeln, welche eine Zusammenlagerung aus afferenten und efferenten Nervenfasern darstellen.
++Die Leitgeschwindigkeit hängt von Faserdurchmesser und Myelinschicht ab.
+Myelin-arme, dünne Fasern leiten am schnellsten.
+
+Welche Zellen gehören zur zentralen Glia?
++Astrozyten
+Schwannzellen
++Oligodendryten
++Mikroglia
+Mantelzellen
+
+Welche Aussagen über den Informationsaustausch im Nervensystem sind korrekt?
++1. Schritt: Info-Aufnahme durch Sinneszellen.
+2. Schritt: Info-Weiterleitung durch efferente Nervenfasern zum ZNS.
++3. Schritt: Verarbeitung/Speicherung der Info im ZNS.
++4. Schritt: Info-Leitung durch efferente Nervenfasern in Peripherie.
++5. Schritt: Info-Abgabe an Umwelt, zB Muskelbewegung.
+
+Welche Aussagen zum Ruhepotenzial sind korrekt?
++Es bezeichnet die Spannung zwischen Membranaussenseite und Membraninnenseite.
+Ladungsverteilung: Innen: positiv und aussen negativ.
++Wird bestimmt durch unterschiedliche Ionenkonzentration und unterschiedliche Ionendurchlässigkeit der Membran.
+Konzentration Natriumionen ist intrazellulär höher als extrazellulär.
++Die Na/K Pumpe sorgt für die Konzentrationsgradienten.
+
+Welche Aussagen über die Membrandurchlässigkeit sind korrekt?
+Membran ist gut durchlässig für Anionen.
+Membran ist gering durchlässig für Kaliumionen.
+Membran ist gut durchlässig für Natriumionen.
++Die Wanderung der Kaliumionen nach Aussen verursacht das Ruhepotenzial.
+
+Welche Aussagen sind korrekt?
++Nur überschwellige Reize, die das Schwellenpotenzial erreichen lösen ein Aktionspotenzial (AP) aus.
+AP Ablauf: Reiz > Hyperpolarisation > Depolarisation > Wiederherstellung Ruhepotenzial.
++AP Ablauf: Die Natriumdurchlässigkeit wird erhöht > Natriumeinstrom > Ladungsumkehr.
++Kaliumkanäle öffnen verzögert zu den Natriumkanälen.
++Erhöhte Kaliumpermeabilität stellt das Ruhepotenzial wieder her.
+Refraktärzeit: Zeit zwischen Reiz und Depolarisation.
+
+Welche Aussagen über die Erregungsleitung sind korrekt?
++AP löst Ladungsunterschiede zwischen benachbarten Membranbereichen aus > es fliesst ein Ausgleichsstrom längs der Faser > AP setzt sich fort.
+Nervenfaser ohne Markscheide > saltatorische Reizleitung.
+Nervenfaser mit Markscheide: kontinuierliche Reizleitung entlang der Nervenfaser.
++Saltatorische Reizleitung: AP springt von Schnürring zu Schnürring.
+
+Welche Aussagen üer Synapsen sind korrekt?
++Synapsen übertragen Reize zwischen Neuronen, zwischen Neuron und Muskelzelle, zwischen Neuron und Drüsenzelle.
++Ein elektrischer Reiz sorgt für die Freisetzung eines chemischen Neurotransmitters.
+Der Neurotransmitter wird von dem postsynaptischen Neuron freigesetzt.
++Der Neurotransmitter bindet nach dem Schlüssel Schloss Prinzip an Rezeptoren des postsynaptischen Neurons.
++Die Bindung des Neurotransmitters an den Rezeptor hat einen Effekt auf Ionenkanäle.
+Neurotransmitter haben immer eine erregende Wirkung.
+
+Welche Aussagen sind korrekt?
++Die anatomische Gliederung des Nervensystems ist: ZNS und PNS.
++Physiologisch kann man das Nervensystem in somatisches und vegetatives/autonomes Nervensystem gliedern.
+Das vegetative Nervensystem besteht aus 3 Anteilen: Sympathikus, Parasympathikus und Neurosympathikus.
+Das somatische Nervensystem nimmt Reize von inneren Organen auf.
+
+Das Gehirn gliedert sich in folgende Teile:
++Telencephalon
++Diencephalon
+Makroencephalon
++Mesencephalon
++Rhombencephalon
+
+Welche Aussagen sind korrekt?
++Im Grosshirn ist der Sitz des Bewisstseins, Empfinden, Willen und Gedächtnis.
++Das Grosshirn ist den anderen Gehirnteilen funktionell übergeordnet.
++Das limbische System steuert unter anderem das emotionale Verhalten.
+Der Hypothalamus ist dem Telencephalon übergeordnet.
+
+Welche Aussagen über das Diencephalon sind richtig?
+Es besteht aus Epithalamus, Thalamus und Opithalamus.
++Der Epithalamus besteht vor allem aus der Epiphyse, welche Melanin produziert.
++Der Thalamus wirkt als Filter und gibt nur aktuell benötigte Signale weiter.
++Der Epithalamus besteht vor allem aus der Zirbeldrüse.
+
+Welche Aussagen über den Hypothalamus sind korrekt?
++Aufrechterhaltung des innteren Millieus.
++steuert Nahrungsverhalten, Wasseraufnahme, Körpertemperatur, Sexualität, Herz-Kreislauf und Schlaf
++oberste Steuerzentrale aller vegetativen, endokrinen Funktionen.
+Er ist dem Telencephalon übergeordnet.
+
+Welche Aussagen sind korrekt?
++Das Kleinhirn steuert zB den Gleichgewichtssinn, bei Ausfall kommt es zu starkem Schwindel.
++Die Medulla Oblongata stellt die Verbindung Gehirn-Rückenmark dar.
++Das Mittelhirn steuert u.a. die Bewegung von Augenlid, Kaumuskeln und Kiefermuskeln.
++Der Liquor cerebrospinalis wird durch Ultrafiltration aus dem Blut gebildet.
++Der Liquor hat Schutzfnktion: Gehirn und Rückenmark schweben in ihm.
+
+Welche Aussagen sind korrekt?
++Afferente Leitungsbahnen: sensible Informationen
++Efferente Leitungsbahnen: willkürliche und unwillkürliche Bewegungen.
+Ganglion: Anhäufung von Nervenzellen innerhalb des ZNS.
++Ganglien werden auch als synaptische Umschaltstationen bezeichnet.
+
+Welche Aussagen sind korrekt?
+Der Riechnerv ist der N. facialis.
+Der Sehnerv ist der N. olfactorius.
+Der Hirnnerv I ist der Hör- und Gleichgewichtsnerv.
++Der Gesichtsnerv ist der N. facialis.
+
+Welche Aussagen über Reflexe sind korrekt?
++Ist die einfachste Art der Reizbearbeitung.
++Reflexzentrum liegt im Rückenmark und Hirnstamm.
++Grundlage ist der Reflexbogen aus Reiz > sensible Nervenbahn > Rückenmark > motoirische Nervenbahn > Reaktion.
+Eigenreflex: Rezeptor und Effektor in verschiedenen Organen.
++Fremdreflex: Rezeptor und Effektor in verschiedenen Organen.
++Erworbener Reflex: bessere Reaktion auf wechselnde Situationen, zB Speichelfluss beim Sehen der Nahrung.
+
+Welche Aussagen sind korrekt?
++Reizleitung im vegetativen Nervensystem: Hypothalamus > efferentes Neuron zum Rückenmark > 1. peripheres Neuron zum vegetativen Ganglion > 2. peripheres Neuron zum Erfolgsorgan
+Neurotransmitter im Sympathikus: im Ganglion Noradrenalin und am Erfolgsorgan: Acetylcholin.
+Neurotransmitter im Parasympathikus: nur Noradrenalin.
++Beim einfachsten spinalen vegetativen Reflexbogen wird das Signal über 3 Synapsen geschaltet.
+
+Welche Aussagen sind korrekt?
++Der passive Bewegungsapparat besteht aus dem Skelett und den Skelettverbindungen.
++Der aktive Bewegungsapparat besteht aus quergestreiften Skelettmuskeln, Sehnen und Hilfseinrichtungen.
++Bänder und Sehnen sorgen für eine Zugfestigkeit.
+Knorpelzellen sorgen für eine Formfestigkeit.
+Knochen sorgen für eine Druckfestigkeit.
++Die kontraktile Kraft kommt von den Muskeln.
+
+Welche Aussagen über Knochen sind korrekt?
++Die Knochenrinde bezeichnet die äussere kompakte Knochenschicht.
++Die aufgelockerte Innenschicht bezeichnet man als Knochenbälckchen.
+Epiphysen bezeichnen den Knochenschaft.
+Diaphysen bezeichnen die Knochenenden.
++Fettmark findet man in den Markhöhlen der Röhrenknochen.
+
+Welche Aussagen über Knochenbindungen sind korrekt?
++Man kann zwischen festen und beweglichen Knochenverbindungen unterscheiden.
++Feste Knochenverbindungen lassen sich in bandhafte, knorpelhafte und knochenhafte Verbindungen unterteilen.
++Echte Gelenke kann man in straffe und synoviale Gelenke unterteilen.
+Straffe Gelenke zeigen eine grössere Beweglichkeit als synoviale Gelenke.
+
+Welche Aussagen über synoviale Gelenke sind korrekt?
+Sie besitezn mindestens 4 Gelenkkörper.
++Die Gelenkkörper sind mit Knorpel überzogen.
++Sie haben einen Gelenkspalt.
++Sie enthalten Gelenkschmiere.
+
+Welche Aussagen über Gelenke sind korrekt?
++Gelenke kann man nach der Zahl ihrer Achsen einteilen; 1-, 2-, oder 3-achsig.
+Einfache Gelenke bestehen aus mehr als 2 Gelenkenden.
++Der Schleimbeutel stellt einen Reserveraum für die Gelenkschmire da.
+Der Meniskus ist ein zusätzlicher Knochen im Kniegelenk.
+
+Welche Aussagen über Muskeln sind korrekt?
++Sie können aktiv kontrahieren, bilden Wärme und sind wichtig für die Blutzirkulation.
+Die Skelettmuskulatur besteht aus glattem Muskelgewebe.
++Es gibt Muskeln für schnelle Bewegungen und für Halteaufgaben.
+Sehnen aus Knorpelgewebe befestigen die Muskeln am Knochen.
++Die Membran aus Bindegewebe um den Muskel nennt man Muskelfaszie.
+
+Welche Aussagen über das quergestreifte Muskelgewebe sind korrekt?
+Es wird vom vegetativen Nervensystem gesteuert.
+Es zeigt keine Ermüdung.
+Es kann viel Kraft entwickeln, braucht aber nur sehr wenig Energie.
++Die Muskeln kontrahieren schnell.
+
+Welche Aussagen über den Bau von Skelettmuskeln sind korrekt?
++Als Muskelfaser wird eine Zelle mit vielen Zellkernen bezeichnet.
++Muskelfasern lagern sich zu Muskelfaserbündel zusammen.
++Die kontraktile Einheit ist die Myofibrille.
+Für die Kontraktion sind nur die Myosinfilamente wichtig.
++Myofibrillen lassen sich in Sarkomere unterteilen.
+
+Welche Aussagen über die Muskelkontraktion sind korrekt?
+Ein Aktionspotential im Muskel löst die Freisetzung von Natriumionen aus dem sarkoplasmatischen Retikulum aus.
++Im Verlauf der Kontraktion verändern die Myosinfilamente ihre Konformation, binden an die Aktinfilamente und führen eine Art Ruderschlag aus.
++Der Ruderschlag erfolgt erst, wenn sich ADP vom Myosinfilament löst.
++Durch Bindung von ATP an Myosin, löst sich dieses wieder vom Aktinfilament.
++Durch die Spaltung von ATP zu ADP gehen die Myosinfilamente wieder in ihre Ausgangslae zurück.
+
+Welche Aussagen sind korrekt?
+Das Skelett besteht aus 500 Knochen.
++Im Körper findet man ca. 656 Muskeln.
+Die Wirbelsäule besteht aus 24 beweglichen Wirbel, dem Kreuzbein und dem Darmbein.
+Die 24 beweglichen Wirbel setzen sich wie folgt zusammen: 7 Halswirbel, 10 Brustwirbel und 7 Lendenwirbel.
+
+Welche Aussagen sind korrekt?
++Der Thorax besteht aus: Brustwirbelsäule, dem Brustbein und 12 Paar Rippen.
++Echte Rippen sind direkt mit dem Brustbein verbunden.
++Falsche Rippel sind mit der 7. Rippe verwachsen.
+Die Arme sind beweglicher als die Beine, da der Schultergürtel fest mit dem Thorax verwachsen ist.
+Der Schultergürtel besteht aus Schlüsselbein und Brustbein.
+
+Welche Aussagen sind korrekt?
++Jeder Arm ist aufgebaut aus: 1 Oberarmknochen, 2 Unterarmknochen, 1 Hand aus: 8 Handwurzelknochen, 5 Mittelhandknochen und 14 Fingerknochen.
+Im menschlichen Fuss findet man 10 Fusswurzelknochen.
++Der Beckengürtel besteht aus 1 Kreuzbein, 2 Hüftbeinen (je aus Darmbein, Sitzbein und Schambein) und 1 Steissbein.
++Den Schädel kann man in Gehirnschädel und Gesichtsschädel unterteilen.

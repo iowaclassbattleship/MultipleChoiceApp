@@ -3,7 +3,6 @@ package io;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
@@ -28,6 +27,7 @@ public class FileReader {
             }
 
             multipleChoice = new MultipleChoice(questions);
+            scanner.close();
             return multipleChoice;
         } catch (FileNotFoundException e) {
             System.err.println("Scanning file " + fileString + "failed");

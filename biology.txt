@@ -1,0 +1,180 @@
+Welche Aussage ist richtig?
++Bei der aeroben Zellatmung werden organische Verbindungen in Gegenwart von Sauerstoff abgebaut.
+Unter Oxidation versteht man die Aufnahme von Elektronen.
++Unter Reduktion versteht man die Aufnahme von Elektronen.
+Elektronen werden bei Redoxreaktionen immer komplett übertragen.
+
+Welche Aussagen über Elektronen sind korrekt?
++KH und Fette sind Elektronenspeicher. Ihre Elektronen können auf O2 übertragen werden.
++NAD+ und FAD können Elektronen aufnehmen.
+Elektronen werden in der Elektronentransportkette in einem Schritt auf O2 übertragen.
+Die Elektronen werden in der Elektronentransportkette auf CO2 übertragen.
+
+Welche Aussagen über die Zellatmung sind korrekt?
++Die Glykolyse findet im Cytosol statt.
++Citratzyklus und oxidative Phosphorylierung finden in den Mitochondrien statt
+50% der ATP Menge wird während der Glykolyse gebildet.
++Insgesamt werden ca. 32 ATP pro Molekül Glukose gebildet.
+
+Welche Aussagen sind korrekt?
+In der Glykolyse werden keine ATP verbraucht.
+Pyruvat entsteht am Ende der Glykolyse und ist ein C2 Körper.
++Pyruvat wird zu Acetyl-CoA umgewandelt unter Abspaltung von CO2.
++Im Citratzyklus werden 2 CO2 von einem C6-Körper abgespalten.
+Im Citratzyklus wird kein ATP gebildet.
+
+Welche Aussagen über die Elektronentransportkette sind korrekt?
++Die Komplexe der Elektronentransportkette befinden sich in der Mitochondrien Membran
++Elektronen werden über verschiedene Komplexe bis hin zum Sauerstoff transportiert
++Die freiwerdende Energie wird zur Erstellung eines H+ Gradienten genutzt.
+Die ATP Synthase bildet ATP durch Substratkettenphosphorylierung.
+
+Unter chemiosmotischer Koppelung versteht man
+Die Energie eines Konzentrationsgradienten wird zur ATP Synthese genutzt.
+Die Energie eines Ladungsgradienten wird zur ATP Synthese genutzt.
+Die Elektronenübertragung von NADH auf Sauerstoff.
++Die Energie aus Konzentrations- und Ladungsgradient wird für die ATP Synthese genutzt.
+
+Welche Aussagen sind korrekt?
+Bei der alkoholischen Gärung wird Glukose in einem Schritt zu Ethanol umgewandelt unter Synthese von ATP.
+Unter Gärung versteht man den Abbau von Glukose unter aeroben Bedingungen.
++Bei der Milchsäuregärung entsteht Lactat.
++Glukose kann aerob als auch anaerob zur Energiegewinnung genutzt werden.
+
+Welche Aussagen sind korrekt?
++KH gehen als Glukosemoleküle in die zelluläre Atmung ein.
++Glycerin aus dem Fettabbau kann in die Glykolyse eingehen.
+Fettsäuren werden in der Glykolyse abgebaut.
++Fettsäuren können in den Citratzyklus eingehen.
++Umgebaute AS aus Proteinen können in den Citratzyklus eingehen.
+
+Welche Aussagen sind richtig?
++Bei der PS wird Lichtenergie in chemische Energie umgewandelt.
+Die Enzyme der PS schwimmen frei im Cytosol der Chloroplasten.
++Nach der Endosymbiontentheorie war der Ur-Chloroplast ein PS-aktiver Prokaryont.
+Ort der PS sind die Mitochondrien
++Chlorophyll ist ein grüner Farbstoff, der Lichtenergie absorbiert.
+
+Welche Aussagen sind korrekt?
++Die meisten Chloroplasten befinden sich in den Blättern.
++Die Spaltöffnungen in den Blättern dienen dem O2/CO2 Austausch.
++Den Innenraum der Chloroplasten nennt man Stroma, in ihm finden sich Membransäckchen, die Thykaloide.
+Chlorophyll befindet sich in der äusseren Chloroplasten Membran.
+
+Welche Aussagen sind korrekt?
++Die Nettoformel der PS lautet: 6 CO2 + 6 H2O + Licht > C6H12O6 + 6O2.
+Der gebildete Sauerstoff stammt vom aufgenommenen CO2.
++Fixiertes CO2 wird zum Zuckeraufbau verwendet.
+Die PS wird in 2 Vorgänge unterteilt: Lichtreaktion und Zitratzyklus.
+
+Welche Aussagen über die Lichtreaktion sind korrekt?
++Licht wird in chemische Energie umgewandelt.
++Sauerstoff entsteht als Nebenprodukt.
++Lichtenergie wird zu NADPH und ATP umgewandelt.
+ATP dient als Elektronen Akzeptor.
+
+Welche Aussagen sind zum Calvin Zyklus sind korrekt?
++Unter Kohlenstofffixierung versteht man die Umwandlung von CO2 aus der Luft in organische Moleküle.
+Es wird ATP gebildet.
++Er wird als Dunkelreaktion bezeichnet, da er keine Lichtenergie benötigt.
++NADPH gibt seine gespeicherten Elektronen ab.
+
+Welche Aussagen sind korrekt?
++Licht ist elektromagnetische Strahlung.
++Die Wellenlängen des sichtbaren Lichtes liegen zwischen 380-750 nm.
++Licht besteht aus Lichtteilchen, den Photonen.
++Wenn Licht auf Materie trifft kann es: reflektiert, transmittiert oder absorbiert werden.
+Die Farbe ergibt sich aus der Wellenlänge, die am stärksten absorbiert wird.
++Wenn ein Photon auf Chlorophyll trifft, wird ein Elektron in einen angeregten Zustand versetzt.
+
+Welche Aussagen sind korrekt?
++Photosystem 1 und 2 befinden sich in der Thykaloid Membran.
+Elektronen werden von PS1 auf PS2 übertragen.
+Das Licht regt nur PS1 an.
++Das special pair überträgt Eektronen auf Elektronen Akzeptor.
++Das special pair von PS1 nennt man P700.
++Das special pair von PS2 nennt man P680.
+
+Welche Aussagen sind korrekt?
++Der Elektronen Transport von PS2 zu PS1 erzeugt Energie/H+ Gradient zur ATP Synthese.
+Bei den Reaktionen in PS1 wird Wasser gespalten und es entsteht Sauerstoff.
++Elektronen vom Elektronen Akzeptor des PS1 werden schrittweise auf NADP+ übertragen.
++Licht regt PS1 und PS2 an.
+
+Welche Aussagen sind korrekt?
+Im Calvinzyklus enstehen KH aus CO2 unter ATP Synthese.
+Den Calvinzyklus kann man in 2 Schritte unterteilen.
++Erste Phase des Calvin Zyklus ist die CO2 Fixierung.
++Am Ende des Calvin Zyklus werden die Ausgangsverbindungen regeneriert.
+
+Welche Aussagen sind korrekt?
++Mit Hilfe des Enzyms RubisCO werden aus einem C5 Körper und CO2 zwei C3 Körper gebildet.
+2 CO2 werden fixiert und es entstehen 6 G3P (Glycerinaldehyd-3-Phosphat).
+Aus 3 C5 Körper werden 6 C3 Körper. Dies macht einen Nettogewinn von 2 C3 Körpern.
++Aus den C3 Körpern werden am Ende von Phase 3 wieder die C5 Körper regeneriert.
+
+Welche Aussagen sind korrekt?
++Bei C4 Pflanzen ist Malat (C4 Körper) das erste stabile Produkt.
+Bei C4 Pflanzen haben wir eine zeitliche Trennung zwischen Licht- und Dunkelreaktion.
++Das Enzym PEP Carboxylase hat eine hohe Affinität zu CO2 ud keine zu O2.
++CAM Pflanzen nehmen nachts CO2 auf und speichern es als C4 Körper.
++CAM Pflanzen setzen tagsüber CO2 aus Carbonsäuren frei und verwenden es im Calvinzyklus.
+Bei CAM Pflanzen finden Licht und Dunkelreaktion räumlich getrennt statt.
+
+Welche Aussagen sind korrekt?
++Zellen können direkt über Kanäle verbunden sein und Stoffe austauschen.
++Die Zellerkennung zwischen Zellen erfolgt über den Kontakt von Oberflächenproteinen.
+Bei der parakrinen Signalübertragung werden Signalmoleküle über weite Distanzen transportiert.
++Endokrine Signalübertragung durch Hormone erfolgt über grosse Distanzen.
+
+Welche Aussagen sind korrekt?
++Die Signaltransduktion efolgt in 3 Schritten: Erkennung - übertragung - Antwort.
++Liganden binden nach dem Schlüssel-Schloss Prinzip an Rezeptoren.
++GPCR = Rezeptorprotein in Plasmamembran + G-Protein
++Rezeptor + Ligand > Konformationsänderung > G-Protein bindet.
+Wenn GDP an das G-Protein gebunden ist, dann ist G-Protein aktiv.
+
+Welche Aussagen sind korrekt?
++Bei Rezeptor-Tyrosin-Kinasen werden Tyrosinreste am Cytoplasmateil des Rezeptors phosphoryliert.
+Ohne die Bindung eines Liganden liegen RTK als Dimere vor.
+Aktivierte Phosphorylasen phosphorylieren Tyrosin Reste.
++überträgermoleküle binden an phosphorylierte RTK, werden aktiviert und lösen zelluläre Antwort aus.
+
+Welche Aussagen sind korrekt?
+Ionenkanäle können nicht durch Liganden gesteuert werden.
+Rezeptoren befinden sich immer in der Plasmamembran.
+Phosphorylierung von Kinasen macht diese inaktiv.
++Dephosphorylierung von Kinasen macht diese inaktiv.
+
+Welche Aussagen über sekundäre Botenstoffe sind korrekt?
++Kleine Moleküle und Ionen können als sekundäre Botenstoffe wirken.
++zyklisches AMP (cAMP) wird durch Adenylatcyclase aus ATP gebildet.
+Adenylatcyclase wird direkt durch einen Liganden aktiviert.
++cAMP aktiviert Proteinkinasen.
+IP3 ist kein sekundärer Botenstoff.
+
+Welche Aussagen sind korrekt?
+Die Calciumkonzentration im Cytoplasma ist höher als im extrazellulären Raum.
+Ca2+ Ionen werden aktiv in den Golgi Apparat gepumpt.
++IP3 bindet an Ca-Kanäle im ER und öffnet diese.
++Ca Einstrom ins Cytosol aktiviert Proteine und löst eine zelluläre Antwort aus.
+
+Welche Aussagen sind korrekt?
++Um die Genexpression zu steuern können Transkriptionsfaktoren im Zellkern phosphoryliert werden.
++Der Glykogenabbau wird durch die Bindung von Adrenalin an einen Rezeptor aktiviert.
++Die von Adrenalin ausgelösten Signale werden schrittweise verstärkt.
++Eine aktivierte Glykogenphosphorylase sorgt am Ende für den Glykogen Abbau.
++Um die Effizienz von Signalkaskaden zu steigern gibt es Gerüstmoleküle.
+
+Welche Aussagen sind korrekt?
+Die Konzentration eines Liganden spielt keine Rolle bei der Aktivierung von Rezeptoren.
+G-Proteine haben keine GTPase Aktivität.
+Kinasen wandeln cAMP in AMP um.
+Kinasen werden durch Phosphorylierung inaktiviert.
+
+Welche Aussagen sind korrekt?
++Signale um die Apoptose auszulösen können von Aussen kommen oder von der Zelle selbst.
++Die Apoptose ist ein wichtiger Mechanismus während der Entwicklung von Säugern.
++Zellen mit DNA Schäden geben sich selbst Signale zur Apoptose.
+Bei C. elegans aktiviert ced9 die Apoptose und ced3 und ced4 hemmen die Apoptose.
+
