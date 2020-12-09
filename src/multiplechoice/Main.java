@@ -150,6 +150,7 @@ public class Main extends Application {
             for (MultipleChoiceModel question : this.questions) {
                 Collections.shuffle(question.answers);
             }
+            Collections.shuffle(this.questions);
             this.currentPos = 0;
         } else {
             this.currentPos++;

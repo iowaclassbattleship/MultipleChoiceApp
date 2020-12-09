@@ -178,3 +178,43 @@ Welche Aussagen sind korrekt?
 +Zellen mit DNA Schäden geben sich selbst Signale zur Apoptose.
 Bei C. elegans aktiviert ced9 die Apoptose und ced3 und ced4 hemmen die Apoptose.
 
+Welche der folgenden Aussagen sind korrekt?
++Makromolekül sind Polymer aus gleichen/ähnlichen Untereinheiten (Monomere)
++Kohlenhydrate sind aus gleichen/ähnlichen Untereinheiten ausgebaut und gehören daher zu den Makromolekülen.
++Fette sind aus Glyzerin und Fettsäuren aufgebaut.
+Die Phospholipide der Zellmembran sind aus einem hydrophoben Kopf und einem hydrophilen Schwanz aufgebaut.
+
+Welche Moleküle sind amphiphil?
+Kohlenhydrate
+Nucleinsäuren
++Phospholipide
+Celulose
+Steroide
+
+Welche der folgenden Aussagen sind korrekt?
+Typische eukaryotische Zellen haben eine Grösse zwischen 10-100 nm.
++Typische Bakterien haben eine Grösse von 1-5 μm.
+Ein Unterschied zwischen Eukaryoten und Prokaryoten ist, dass die DNA der Eukaryoten frei im Zytosol schwimmt und bei Prokaryoten in einem Zellkern gelagert wird.
++Zu den membranbegrenzten Organellen gehören unter anderem das Endoplasmatische Retikulum und der Golgi-Apparat.
+
+Welche Aussagen sind korrekt?
++Zum Endomembransystem gehören u.a.: der Golgi Apparat, das Endoplasmatische Retikulum und die Kernhülle.
+Eine Calcium-Pumpe pumpt Calcium Ionen aus dem ER ins Zytoplasma.
++Ribosome auf der Oberfläche des rauen ERs synthetisieren Proteine ins ER Lumen.
+Der Golgi Apparat ist der Ort der zellulären Atmung.
++Hydrolasen in den Lysosomen sind wichtige abbauende Enzyme.
+
+Welche der folgenden Aussagen trifft nicht auf einen Chloroplasten
+Ort, an dem Lichtenergie in chemische Energie umgewandelt wird
+enthält Ribosomen und DNA
+enthält 3 Subkompartimente mit 3 Membransystemen
+Ort, an dem voneinander abhängige Lichtreaktion und Dunkelreaktion stattfindet
++Ort, an dem die Glykolyse stattfindet
+
+Aldosteron ist ein fettlöslicher Signalstoff, der mittels Diffusion in Zellen eindringen kann. Wieso reagieren aber nicht alle Zellen auf Aldosteron? nur eine Aussage richtig
+Zellen, die keine Zielzellen sind, besitzen Enzyme, die Aldosteron abbauen, sobald Aldosteron in die Zelle gelangt.
+Zellen, die keine Zielzellen sind, fehlen die Enzyme, die von Aldosteron aktiviert werden.
++Zellen, die keine Zielzellen sind, fehlen die intrazellulären Rezeptoren, die durch Aldosteron aktiviert werden und dann mit den Genen im Zellkern in Wechselwirkung treten.
+Aldosteron diffundiert wieder aus der Zelle heraus, ehe es eine wirksame Konzentration erreicht.
+Zellen, die keine Zielzellen sind, verpacken das Aldosteron in Transportvesikel und bringen es so wieder aus der Zelle heraus.
+
